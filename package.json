@@ -20,6 +20,7 @@
   "homepage": "https://github.com/vedgohel12/Zerodha-backend1#readme",
   "dependencies": {
     "cors": "^2.8.6",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
   }
 }
